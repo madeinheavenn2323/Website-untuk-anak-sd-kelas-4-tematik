@@ -1,0 +1,47 @@
+{
+  "name": "Petualangan Sistem Gerak",
+  "short_name": "Sistem Gerak",
+  "description": "Aplikasi belajar Sistem Gerak untuk siswa kelas 4 SD",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "lang": "id",
+  "background_color": "#dff3ff",
+  "theme_color": "#ffc93c",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-maskable-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "id": "./index.html",
+  "categories": [
+    "education",
+    "kids"
+  ],
+  "display_override": [
+    "standalone",
+    "fullscreen"
+  ]
+}

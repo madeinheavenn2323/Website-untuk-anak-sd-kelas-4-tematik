@@ -1,0 +1,6 @@
+Taruh file three.min.js (Three.js versi r128) di folder ini agar aplikasi bisa berjalan 100% offline.
+
+Cara: buka alamat di bawah di browser, lalu tekan Ctrl+S dan simpan dengan nama  three.min.js  di folder lib ini.
+https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js
+
+Jika file ini tidak ada, aplikasi otomatis memakai internet (sekali saja, lalu tersimpan di cache).
